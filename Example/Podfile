@@ -1,0 +1,6 @@
+use_frameworks!
+target 'J2ObjCAuto_Tests' do
+  pod 'J2ObjCAuto', :path => '../'
+  
+  
+end
