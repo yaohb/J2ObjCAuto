@@ -1,0 +1,22 @@
+{
+  "name": "J2ObjCAuto",
+  "version": "0.1.0",
+  "summary": "A short description of J2ObjCAuto.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yao_seu@126.com/J2ObjCAuto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yao_seu@126.com": "hongbing.yao@byton.com"
+  },
+  "source": {
+    "git": "https://github.com/yao_seu@126.com/J2ObjCAuto.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "J2ObjCAuto/Classes/**/*"
+}
